@@ -1,0 +1,8 @@
+br/com/heitor/eats/service/DistanciaService.class
+br/com/heitor/eats/CorsConfig.class
+br/com/heitor/eats/dto/RestauranteComDistanciaDto.class
+br/com/heitor/eats/controller/RestaurantesMaisProximosController.class
+br/com/heitor/eats/EatsDistanciasApplication.class
+br/com/heitor/eats/service/Restaurante.class
+br/com/heitor/eats/exception/ResourceNotFoundException.class
+br/com/heitor/eats/repository/RestauranteRepository.class
